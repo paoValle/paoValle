@@ -19,7 +19,7 @@ Caserta, Italy · [LinkedIn](https://www.linkedin.com/in/paovalletta/) · [paova
 ![UX](https://img.shields.io/badge/UX-9333EA?style=flat-square)
 
 <!-- stack -->
-[![My stack](https://skillicons.dev/icons?i=ts,py,java,spring,nodejs,postgres,kafka,docker,kubernetes,git,linux&theme=dark)](https://skillicons.dev)
+[![My stack](https://skillicons.dev/icons?i=ts,py,java,spring,nodejs,nestjs,react,nextjs,postgres,kafka,docker,kubernetes,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
