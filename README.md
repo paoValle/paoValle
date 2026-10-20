@@ -17,12 +17,9 @@ Caserta, Italy · [LinkedIn](https://www.linkedin.com/in/paovalletta/) · [paova
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Product Owner](https://img.shields.io/badge/Product%20Owner-B45309?style=flat-square)
 ![UX](https://img.shields.io/badge/UX-9333EA?style=flat-square)
-![Hands on](https://img.shields.io/badge/Hands%20on-15803D?style=flat-square)
-![Self taught](https://img.shields.io/badge/Self%20taught-15803D?style=flat-square)
-![Still in production](https://img.shields.io/badge/Still%20in%20production-15803D?style=flat-square)
 
 <!-- stack -->
-[![My stack](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,spring,py,cassandra,postgres,mysql,react,nextjs,bootstrap,html,css,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![My stack](https://skillicons.dev/icons?i=ts,py,java,spring,nodejs,postgres,kafka,docker,kubernetes,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -36,9 +33,9 @@ something, and none of them were homework.
 I never waited for a course to teach me. Straight out of high school I started writing web
 software for real clients: two management systems — one in pharmaceutical manufacturing and
 medical sales rep management, one for surgical practices — in PHP, HTML, JS and CSS, which at
-the beginning I barely knew. I learned by breaking them and fixing them, on the job, and **they
-are still in production today**. When AI-assisted coding arrived, I finally had the chance to
-restructure and refactor them into something I would write today.
+the beginning I barely knew. I learned by breaking them and fixing them, on the job. When
+AI-assisted coding arrived, I finally had the chance to restructure and refactor them into
+something I would write today.
 
 At university I built **OrariUnina**: it collected the lecture timetable of every course and
 degree programme and derived **which classrooms were free at any given time**, so students
@@ -66,10 +63,4 @@ pause — models, releases, benchmarks, evaluation practices, and the people wor
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paoValle&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoValle&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paoValle&theme=dark&hide_border=true" height="165" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paoValle&style=flat-square&color=6E40C9&label=profile+views" alt="Profile views" />
 </p>
